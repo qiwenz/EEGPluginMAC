@@ -1,0 +1,9 @@
+{
+  "name": "Plugin Test",
+  "version": "${FBSTRING_PLUGIN_VERSION}",
+  "description": "Test Plugin of Firebreath",
+
+	"plugins": [
+    { "path": "npPluginTest.dll", "public": true }
+  ]
+}
